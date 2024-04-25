@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Takumikimura1899/GraphQL-NestJS-React-Practice-backend
